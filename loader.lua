@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/elixirganteng/elixirscfreems/main/elixir.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/elixirganteng/elixirscmsfree/main/elixir.lua"))()
